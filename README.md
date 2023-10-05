@@ -1,2 +1,2 @@
 # vanilla-stopwatch
-A mini javascript project with stop watch
+A simple JavaScript Project for revision purposes 
